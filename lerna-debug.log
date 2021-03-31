@@ -1,0 +1,10 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'lerna/cli.js',
+0 silly argv   pkg: '.'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/mokaihang/WebstormProjects/hulin-cli
+3 error
